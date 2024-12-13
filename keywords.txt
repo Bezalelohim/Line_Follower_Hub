@@ -1,0 +1,29 @@
+# Syntax Coloring Map for LineFollowerHub
+
+# Classes (KEYWORD1)
+ThreeChannelSensor	KEYWORD1
+FourChannelSensor	KEYWORD1
+EightChannelSensor	KEYWORD1
+PIDController	KEYWORD1
+JunctionDetector	KEYWORD1
+MazeSolver	KEYWORD1
+L298NDriver	KEYWORD1
+
+# Methods (KEYWORD2)
+init	KEYWORD2
+calibrate	KEYWORD2
+readSensors	KEYWORD2
+getPosition	KEYWORD2
+compute	KEYWORD2
+detectJunction	KEYWORD2
+setSpeed	KEYWORD2
+stop	KEYWORD2
+brake	KEYWORD2
+
+# Constants (LITERAL1)
+NO_JUNCTION	LITERAL1
+LEFT_TURN	LITERAL1
+RIGHT_TURN	LITERAL1
+T_JUNCTION	LITERAL1
+CROSS_JUNCTION	LITERAL1
+END_OF_LINE	LITERAL1 
